@@ -1,0 +1,12 @@
+C:\Users\usuario\git\VB_calculadora\Calculadora_sencilla2\Calculadora_sencilla2\bin\Debug\Calculadora_sencilla2.exe.config
+C:\Users\usuario\git\VB_calculadora\Calculadora_sencilla2\Calculadora_sencilla2\bin\Debug\Calculadora_sencilla2.exe
+C:\Users\usuario\git\VB_calculadora\Calculadora_sencilla2\Calculadora_sencilla2\bin\Debug\Calculadora_sencilla2.pdb
+C:\Users\usuario\git\VB_calculadora\Calculadora_sencilla2\Calculadora_sencilla2\bin\Debug\Calculadora_sencilla2.xml
+C:\Users\usuario\git\VB_calculadora\Calculadora_sencilla2\Calculadora_sencilla2\obj\Debug\Calculadora_sencilla2.vbproj.AssemblyReference.cache
+C:\Users\usuario\git\VB_calculadora\Calculadora_sencilla2\Calculadora_sencilla2\obj\Debug\Calculadora_sencilla2.Resources.resources
+C:\Users\usuario\git\VB_calculadora\Calculadora_sencilla2\Calculadora_sencilla2\obj\Debug\Calculadora_sencilla2.vbproj.GenerateResource.cache
+C:\Users\usuario\git\VB_calculadora\Calculadora_sencilla2\Calculadora_sencilla2\obj\Debug\Calculadora_sencilla2.vbproj.CoreCompileInputs.cache
+C:\Users\usuario\git\VB_calculadora\Calculadora_sencilla2\Calculadora_sencilla2\obj\Debug\Calculadora_sencilla2.exe
+C:\Users\usuario\git\VB_calculadora\Calculadora_sencilla2\Calculadora_sencilla2\obj\Debug\Calculadora_sencilla2.xml
+C:\Users\usuario\git\VB_calculadora\Calculadora_sencilla2\Calculadora_sencilla2\obj\Debug\Calculadora_sencilla2.pdb
+C:\Users\usuario\git\VB_calculadora\Calculadora_sencilla2\Calculadora_sencilla2\obj\Debug\Calculadora_sencilla2.Calculadora.resources
